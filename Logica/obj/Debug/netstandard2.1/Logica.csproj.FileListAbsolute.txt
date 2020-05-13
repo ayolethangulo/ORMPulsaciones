@@ -1,0 +1,13 @@
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\Logica\obj\Debug\netstandard2.1\Logica.pdb

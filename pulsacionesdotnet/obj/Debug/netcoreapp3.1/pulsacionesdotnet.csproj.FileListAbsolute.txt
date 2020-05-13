@@ -1,0 +1,218 @@
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.csprojAssemblyReference.cache
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.MvcApplicationPartsAssemblyInfo.cs
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorAssemblyInfo.cache
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorAssemblyInfo.cs
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.AssemblyInfoInputs.cache
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.AssemblyInfo.cs
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.exe
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.deps.json
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.runtimeconfig.json
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.runtimeconfig.dev.json
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.pdb
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.Views.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.Views.pdb
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Datos.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Entity.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Logica.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.TagHelpers.input.cache
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.TagHelpers.output.cache
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorCoreGenerate.cache
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorTargetAssemblyInfo.cache
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorTargetAssemblyInfo.cs
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.Views.pdb
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.csproj.CopyComplete
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\staticwebassets\pulsacionesdotnet.StaticWebAssets.Manifest.cache
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\staticwebassets\pulsacionesdotnet.StaticWebAssets.xml
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.dll
+C:\programacion-web\pulsacionesdotnet-http\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.pdb
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.exe
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.deps.json
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.runtimeconfig.json
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.runtimeconfig.dev.json
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.pdb
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.Views.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.Views.pdb
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Datos.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Entity.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Logica.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.csprojAssemblyReference.cache
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.MvcApplicationPartsAssemblyInfo.cs
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorAssemblyInfo.cache
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorAssemblyInfo.cs
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.AssemblyInfoInputs.cache
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.AssemblyInfo.cs
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.TagHelpers.input.cache
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.TagHelpers.output.cache
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorCoreGenerate.cache
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorTargetAssemblyInfo.cache
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorTargetAssemblyInfo.cs
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.Views.pdb
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.csproj.CopyComplete
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\staticwebassets\pulsacionesdotnet.StaticWebAssets.Manifest.cache
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\staticwebassets\pulsacionesdotnet.StaticWebAssets.xml
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.dll
+C:\programacion-web\FormulariosReactivosPulsacion\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.exe
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.deps.json
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.runtimeconfig.json
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.runtimeconfig.dev.json
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.Views.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\pulsacionesdotnet.Views.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Datos.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Entity.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Logica.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.csprojAssemblyReference.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.MvcApplicationPartsAssemblyInfo.cs
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorAssemblyInfo.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorAssemblyInfo.cs
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.AssemblyInfoInputs.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.AssemblyInfo.cs
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.TagHelpers.input.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.TagHelpers.output.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorCoreGenerate.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorTargetAssemblyInfo.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.RazorTargetAssemblyInfo.cs
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.Views.pdb
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.csproj.CopyComplete
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\staticwebassets\pulsacionesdotnet.StaticWebAssets.Manifest.cache
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\staticwebassets\pulsacionesdotnet.StaticWebAssets.xml
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.dll
+C:\programacion-web\FormulariosReactivosPulsacion - OMR\pulsacionesdotnet\obj\Debug\netcoreapp3.1\pulsacionesdotnet.pdb
